@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc553ab1473a06d44bc1172e2a9bb7f0, type: 3}
+  m_Name: QuestionListData
+  m_EditorClassIdentifier: 
+  currentQuestion: 2
+  questionList:
+  - question: We Ues Unity Engine for Game Developer ?
+    isTrue: 1
+    questioned: 0
+  - question: We use C# language to write code in Unity Engine ?
+    isTrue: 1
+    questioned: 0
+  - question: The Capital of Turkiye is Istanbul ?
+    isTrue: 0
+    questioned: 0
+  - question: Kastamonu University was founded in 2006 ?
+    isTrue: 1
+    questioned: 0
+  - question: 4 * 5 = 30
+    isTrue: 0
+    questioned: 0
+  - question: 60 / 5 = 12
+    isTrue: 1
+    questioned: 0
+  - question: Console.WriteLine("Hello World!");
+    isTrue: 1
+    questioned: 0

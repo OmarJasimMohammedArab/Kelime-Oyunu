@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329d919b79c5c6247b9638d3c125afad, type: 3}
+  m_Name: FoodL1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 8
+  Rows: 8
+  Boards:
+  - Size: 8
+    Row:
+    - P
+    - I
+    - Z
+    - Z
+    - A
+    - S
+    - J
+    - W
+  - Size: 8
+    Row:
+    - S
+    - A
+    - N
+    - D
+    - W
+    - U
+    - C
+    - H
+  - Size: 8
+    Row:
+    - O
+    - D
+    - D
+    - E
+    - H
+    - S
+    - X
+    - N
+  - Size: 8
+    Row:
+    - U
+    - E
+    - C
+    - B
+    - A
+    - N
+    - T
+    - Q
+  - Size: 8
+    Row:
+    - P
+    - I
+    - H
+    - L
+    - R
+    - J
+    - S
+    - O
+  - Size: 8
+    Row:
+    - R
+    - W
+    - A
+    - Z
+    - H
+    - E
+    - T
+    - S
+  - Size: 8
+    Row:
+    - W
+    - D
+    - Z
+    - A
+    - B
+    - T
+    - A
+    - R
+  - Size: 8
+    Row:
+    - Q
+    - U
+    - A
+    - J
+    - M
+    - A
+    - B
+    - D
+  SearchWords:
+  - Word: PIZZA
+  - Word: SOUP
+  - Word: SALAD
+  - Word: BREAD
+  - Word: RICE

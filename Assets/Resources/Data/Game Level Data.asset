@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a24f1dcd3a93546b39230ea31f2ba2, type: 3}
+  m_Name: Game Level Data
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: FOOD
+    boardData:
+    - {fileID: 11400000, guid: c4747a81c4024d44f95f0fca2f960eaf, type: 2}
+    - {fileID: 11400000, guid: 5beb157a19142734da5f08b74eb58f5b, type: 2}
+    - {fileID: 11400000, guid: 21eedc11544b6be4496ea6445507ebea, type: 2}
+    - {fileID: 11400000, guid: f85ea9810ee7fef48b449ce1f8ccebae, type: 2}
+  - categoryName: ANIMALS
+    boardData:
+    - {fileID: 11400000, guid: 042707937e28c454098378c5b12e011f, type: 2}
+    - {fileID: 11400000, guid: adf9e1f5d5418844b9acd1b0ccec855b, type: 2}
+    - {fileID: 11400000, guid: 634e29d472af78d43881241dc1cd04e4, type: 2}
+    - {fileID: 11400000, guid: 041bc54dcdc386a469c8a9b657375af6, type: 2}
+  - categoryName: SPORT
+    boardData:
+    - {fileID: 11400000, guid: d4078bba44cc5c7438bfae4e278ebc99, type: 2}
+    - {fileID: 11400000, guid: 89c6f88e185bd8448af17109439f4434, type: 2}
+    - {fileID: 11400000, guid: 1e873af46ce1d2e4088f8a72c6606138, type: 2}
+  - categoryName: PROGREMER LANGUAGE
+    boardData: []
+  - categoryName: WORK
+    boardData: []
+  - categoryName: COUNTRIES
+    boardData: []
+  - categoryName: HOBBIES
+    boardData: []
+  - categoryName: PLANTS
+    boardData: []
+  - categoryName: TOYS
+    boardData: []
+  - categoryName: NUMBER
+    boardData: []

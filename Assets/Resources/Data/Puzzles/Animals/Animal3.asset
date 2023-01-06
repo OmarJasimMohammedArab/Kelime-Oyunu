@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329d919b79c5c6247b9638d3c125afad, type: 3}
+  m_Name: Animal3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  Columns: 9
+  Rows: 9
+  Boards:
+  - Size: 9
+    Row:
+    - A
+    - J
+    - T
+    - T
+    - U
+    - B
+    - W
+    - E
+    - E
+  - Size: 9
+    Row:
+    - M
+    - S
+    - M
+    - U
+    - M
+    - T
+    - H
+    - L
+    - L
+  - Size: 9
+    Row:
+    - T
+    - N
+    - T
+    - R
+    - X
+    - P
+    - T
+    - D
+    - I
+  - Size: 9
+    Row:
+    - O
+    - A
+    - H
+    - T
+    - Z
+    - V
+    - R
+    - V
+    - D
+  - Size: 9
+    Row:
+    - S
+    - K
+    - W
+    - L
+    - R
+    - A
+    - A
+    - K
+    - O
+  - Size: 9
+    Row:
+    - H
+    - E
+    - R
+    - E
+    - Z
+    - T
+    - O
+    - M
+    - C
+  - Size: 9
+    Row:
+    - T
+    - D
+    - Z
+    - I
+    - I
+    - Y
+    - C
+    - R
+    - O
+  - Size: 9
+    Row:
+    - A
+    - L
+    - L
+    - I
+    - G
+    - A
+    - T
+    - O
+    - R
+  - Size: 9
+    Row:
+    - F
+    - G
+    - M
+    - R
+    - J
+    - T
+    - K
+    - W
+    - C
+  SearchWords:
+  - Word: SNAKE
+  - Word: ALLIGATOR
+  - Word: CROCODILE
+  - Word: WORM
+  - Word: TURTLE
+  - Word: LIZARD

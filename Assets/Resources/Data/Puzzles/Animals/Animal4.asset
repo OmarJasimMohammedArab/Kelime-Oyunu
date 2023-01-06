@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329d919b79c5c6247b9638d3c125afad, type: 3}
+  m_Name: Animal4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 180
+  Columns: 8
+  Rows: 8
+  Boards:
+  - Size: 8
+    Row:
+    - P
+    - C
+    - C
+    - P
+    - L
+    - J
+    - G
+    - V
+  - Size: 8
+    Row:
+    - I
+    - E
+    - R
+    - L
+    - Q
+    - H
+    - C
+    - S
+  - Size: 8
+    Row:
+    - G
+    - O
+    - O
+    - S
+    - E
+    - V
+    - A
+    - D
+  - Size: 8
+    Row:
+    - E
+    - O
+    - W
+    - R
+    - A
+    - A
+    - N
+    - R
+  - Size: 8
+    Row:
+    - O
+    - S
+    - L
+    - E
+    - G
+    - B
+    - A
+    - F
+  - Size: 8
+    Row:
+    - N
+    - E
+    - S
+    - Z
+    - L
+    - U
+    - R
+    - L
+  - Size: 8
+    Row:
+    - X
+    - F
+    - E
+    - G
+    - E
+    - O
+    - Y
+    - P
+  - Size: 8
+    Row:
+    - H
+    - Y
+    - T
+    - O
+    - R
+    - R
+    - A
+    - P
+  SearchWords:
+  - Word: PIGEON
+  - Word: GOOSE
+  - Word: EAGLE
+  - Word: CANARY
+  - Word: CROW
+  - Word: OWL
+  - Word: PARROT

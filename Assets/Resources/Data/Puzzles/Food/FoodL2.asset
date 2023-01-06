@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329d919b79c5c6247b9638d3c125afad, type: 3}
+  m_Name: FoodL2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 8
+  Rows: 8
+  Boards:
+  - Size: 8
+    Row:
+    - G
+    - L
+    - E
+    - M
+    - O
+    - N
+    - S
+    - S
+  - Size: 8
+    Row:
+    - R
+    - Q
+    - O
+    - O
+    - F
+    - O
+    - T
+    - A
+  - Size: 8
+    Row:
+    - A
+    - B
+    - M
+    - R
+    - R
+    - W
+    - V
+    - W
+  - Size: 8
+    Row:
+    - P
+    - T
+    - U
+    - A
+    - A
+    - O
+    - S
+    - M
+  - Size: 8
+    Row:
+    - E
+    - V
+    - N
+    - V
+    - C
+    - N
+    - R
+    - Q
+  - Size: 8
+    Row:
+    - S
+    - G
+    - J
+    - A
+    - B
+    - D
+    - U
+    - H
+  - Size: 8
+    Row:
+    - E
+    - R
+    - D
+    - E
+    - L
+    - P
+    - P
+    - A
+  - Size: 8
+    Row:
+    - T
+    - O
+    - J
+    - V
+    - Z
+    - A
+    - T
+    - D
+  SearchWords:
+  - Word: GRAPES
+  - Word: LEMONS
+  - Word: AVOCADO
+  - Word: APPLE
+  - Word: ORANGE
